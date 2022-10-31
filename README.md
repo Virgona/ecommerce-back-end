@@ -33,7 +33,7 @@ The greatest success was the feeling of almost complete understanding of that th
 ## The App
 
 You can find a link to the instructional video here:
-https://drive.google.com/file/d/1cVzQqV4kvhq2Cf1ocvaTzw6XJhQ0osBd/view
+https://drive.google.com/file/d/1E5R9fwWO9V_GwBV_kZeVPcTA0dG_77mY/view
 
 If you wish to give it a go you can check it out at my repo here!
 https://github.com/Virgona/ecommerce-back-end.git
